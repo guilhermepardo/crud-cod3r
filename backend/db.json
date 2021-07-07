@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Samsung S20+",
+      "price": 5000.9
+    },
+    {
+      "id": 4,
+      "name": "Geladeira",
+      "price": "1913.99"
+    },
+    {
+      "name": "Air Force 1",
+      "price": 399.99,
+      "id": 5
+    },
+    {
+      "name": "Macbook Pro 2012",
+      "price": 3499.99,
+      "id": 6
+    },
+    {
+      "name": "Mi 11 Ultra",
+      "price": "8000.00",
+      "id": 7
+    },
+    {
+      "name": "Teclado",
+      "price": 150.99,
+      "id": 8
+    },
+    {
+      "name": "Notebook Gamer",
+      "price": 3400,
+      "id": 9
+    },
+    {
+      "name": "heheh",
+      "price": 1111,
+      "id": 10
+    }
+  ]
+}
